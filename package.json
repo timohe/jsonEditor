@@ -1,0 +1,24 @@
+{
+  "name": "jsoneditor",
+  "version": "1.0.0",
+  "description": "Load, manipulate and export json files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timohe/jsonEditor.git"
+  },
+  "keywords": [
+    "json",
+    "edit",
+    "batch"
+  ],
+  "author": "Timo Hegnauer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timohe/jsonEditor/issues"
+  },
+  "homepage": "https://github.com/timohe/jsonEditor#readme"
+}
